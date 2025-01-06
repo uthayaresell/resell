@@ -55,7 +55,7 @@ def execute_db_query(collection, operation, query={}, data=None):
 
 
 # Bot Configuration 
-RESELLER_BOT_TOKEN = '7490965174:AAGmM2r7knQYWjHruO4JAhDviIWJwSlXAIg'
+RESELLER_BOT_TOKEN = '7490965174:AAEucdgSZX5m7txo8_BO1lU8wfvBZ60aqEQ'
 ADMIN_IDS = ["7418099890"]
 admin_owner = "7418099890"
 
